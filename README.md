@@ -3,7 +3,7 @@
 A 3D browser-based game built with Three.js and physics using cannon-es.
 This project is part of my journey learning game development and real-time rendering.
 
-![alt text]("cannon pic - day 12 of working on my game.png")
+![Cannon Screenshot](cannon-pic-day-12-of-working-on-my-game.png)
 
 ## Tech Stack
 
