@@ -1,1 +1,1 @@
-Make the camera follow the character.
+Add weapons

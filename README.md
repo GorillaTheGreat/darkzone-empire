@@ -39,6 +39,8 @@ Example using VS Code Live Server:
 * Add sound effects
 * UI (health, score, etc.)
 * Better models and textures
+* Different characters
+* Add Multiplayer
 
 
 ## Author
